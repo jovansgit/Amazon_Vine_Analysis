@@ -23,7 +23,7 @@ I will pick a dataset and use PySpark to perform the ETL process to extract the 
 
 ## Summary:
 ### Is there any positivity bias for reviews in the Vine program?
-* Yes we can see some positivity bias for reviews in the Vine program.  We see an 11.71% increase in reviews that are part of the Vine program
+* Yes we can see some positivity bias for reviews in the Vine program.  We see an 11.71% increase in five star reviews that are part of the Vine program
 
 ### Additional analysis that I could perform to support this?
 * In addition to the analsis we conducted I would like to perform some NLP, in particular some seniment analysis to confirm that the review body aligns with the score provided.  
